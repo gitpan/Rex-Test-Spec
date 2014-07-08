@@ -1,5 +1,8 @@
 Revision history for Rex-Test-Spec
 
+0.03    2014-07-08/14:32:00
+        Add much more POD.
+
 0.02    2014-07-08/10:40:00
         Add more resource types.
 
